@@ -5,5 +5,5 @@ Language: Python
 
 Models:
 * 1. Item-to-item collaborative filtering model (item CF model).
-* 2. Latent semantic indexing topic model (topic Model).
+* 2. Latent semantic indexing topic model (topic model).
 * 3. Popularity model.
