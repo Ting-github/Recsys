@@ -1,4 +1,4 @@
-# Recsys
+# Recsys: 
 Comparison and Analysis of  three recommendation algorithms in E-commerce based on user click event.
 
 Language: Python
@@ -8,7 +8,7 @@ Language: Python
 * 2. Latent semantic indexing topic model (topic model).
 * 3. Popularity model.
 
-# Database
+# Database: download dataset here: http://recsys.yoochoose.net/challenge.html
 CLICKS DATASET FILE DESCRIPTION
 ------------------------------------------------------------------------------------------------------------------
 1. yoochoose-clicks.dat
