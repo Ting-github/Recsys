@@ -29,7 +29,8 @@ BUYS DATSET FILE DESCRIPTION
 TEST DATASET FILE DESCRIPTION
 ------------------------------------------------------------------------------------------------------------------
 3. yoochoose-test.dat
-The file yoochoose-test.dat comprising only clicks of users over items.
+
+* The file yoochoose-test.dat comprising only clicks of users over items.
 This file served as a test file in the RecSys challenge 2015. 
 The structure is identical to the file yoochoose-clicks.dat but you will not find the
 corresponding buying events to these sessions in the yoochoose-buys.dat file.
