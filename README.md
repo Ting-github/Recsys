@@ -1,4 +1,5 @@
 # Recsys: 
+Course project for CS532. Code contributors: Xiuting Wang and Ya­Chun Yang.
 Comparison and Analysis of  three recommendation algorithms in E-commerce based on user click event.
 
 Language: Python
